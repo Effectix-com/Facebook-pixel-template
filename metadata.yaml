@@ -16,7 +16,7 @@ homepage: "https://github.com/Dan20020"
 documentation: "https://github.com/Effectix-com/Facebook-pixel-template"
 versions:
   # Latest version
-    - sha: 
+    - sha: 212ece316a163e4f9bac5fdd83058e996623bf37
       changeNotes:
         All Standard Facebook Events Added
     # Older versions
