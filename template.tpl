@@ -568,7 +568,7 @@ ___TEMPLATE_PARAMETERS___
               },
               {
                 "value": "contents",
-                "displayValue": "contents - REQUIRED for Dynamic Ads"
+                "displayValue": "contents - for Dynamic Ads"
               },
               {
                 "value": "content_name",
@@ -1260,6 +1260,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 10. 5. 2021 19:12:24
+Created on 10. 5. 2021 19:26:31
 
 
